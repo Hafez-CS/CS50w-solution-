@@ -21,3 +21,5 @@ Week 6 = User Interfaces
 Week 7 = Testing, CI/CD
 
 Week 8 = Scalability and Security
+
+![Monty Python](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50W_pll.png?itok=pvEE-46J)
